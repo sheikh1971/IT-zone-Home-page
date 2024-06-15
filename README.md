@@ -1,2 +1,2 @@
 # IT-zone-Home-page
-Home page of web design
+Home page of paralax and moveable elements are included
